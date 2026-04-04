@@ -42,16 +42,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,cpp,python,mysql,firebase,git,github,vscode&perline=7" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasensingh823&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasensingh823&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="180em" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,cpp,python,neondb,git,github,vscode&perline=7" />
 </p>
 
 ---
