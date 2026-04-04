@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%F0%9F%92%BB;Creative+Coder+%F0%9F%8E%A8;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Learner+%F0%9F%9A%80;Building+Cool+Projects+with+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%F0%9F%92%BB;Open+Source+Learner+%F0%9F%9A%80;Building+Cool+Projects+with+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,cpp,python,neondb,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,cpp,python,git,github,vscode&perline=7" />
 </p>
 
 ---
