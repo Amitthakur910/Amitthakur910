@@ -42,7 +42,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,posgresql,mongo,bootstrap,tailwind,c,cpp,python,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,posgre,mongo,bootstrap,tailwind,c,cpp,python,git,github,vscode&perline=7" />
 </p>
 
 ---
