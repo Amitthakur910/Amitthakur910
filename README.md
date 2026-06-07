@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Amit Thakur</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer (MERN) from India</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,10 +14,10 @@
 
 ## 🙋‍♂️ About Me
 
-- I’m currently working on **Web Development**
-- I’m currently learning **React.JS, Next.JS, TailwindCSS**
+- I’m currently working on **Full Stack Web Development**
+- I’m currently learning **React.JS, Node.JS, Express.JS, PostgreSQL, Mongo DB**
 - I love building **creative, responsive, and animated websites**
-- Goal: To become a **Frontend Developer**
+- Goal: To become a **Full Stack Developer**
 - Fun fact: **I turn ideas into beautiful web experiences**
 - Reach me at: **at1453681@gmail.com**
 
@@ -42,7 +42,7 @@
 ## 🚀 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,c,cpp,python,git,github,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,posgresql,mongo,bootstrap,tailwind,c,cpp,python,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 <tr>
 <td align="center" width="200">
 <img src="https://img.icons8.com/color/96/html-5--v1.png" width="60"/><br>
-<b>Frontend Development</b><br>
+<b>Full Stack Development</b><br>
 Responsive websites with modern UI/UX
 </td>
 <td align="center" width="200">
@@ -69,7 +69,7 @@ Interactive and dynamic web apps
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=indrasensingh823&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amitthakur910&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
